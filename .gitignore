@@ -1,4 +1,4 @@
 .DS_Store
 app/*.map
 app/*.js
-npm-debug.info
+npm-debug.log
